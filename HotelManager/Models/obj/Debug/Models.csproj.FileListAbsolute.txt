@@ -1,0 +1,68 @@
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\Models.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\Models.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\obj\Debug\Models.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\obj\Debug\Models.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\Models.dll.config
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Razor.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.Razor.xml
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\帅气的军哥\Desktop\HotelManager\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\Models.dll.config
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\Models.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\Models.pdb
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Helpers.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.Extensions.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Razor.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Helpers.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.Extensions.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Razor.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\obj\Debug\Models.csproj.CopyComplete
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\obj\Debug\Models.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\Models\obj\Debug\Models.pdb
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\Models.dll.config
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\Models.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\Models.pdb
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Helpers.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.Extensions.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Razor.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Razor.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Helpers.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Mvc.Extensions.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.Razor.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\bin\Debug\System.Web.WebPages.Razor.xml
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\obj\Debug\Models.csproj.CopyComplete
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\obj\Debug\Models.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\Models\obj\Debug\Models.pdb

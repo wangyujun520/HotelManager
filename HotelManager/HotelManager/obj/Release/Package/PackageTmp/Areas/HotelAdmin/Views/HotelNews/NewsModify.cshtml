@@ -1,0 +1,39 @@
+﻿@model Models.News
+@{
+    ViewBag.Title = "NewsModify";
+    Layout = "~/Areas/HotelAdmin/Views/Shared/AdminLayout.cshtml";
+    //下拉列表初始化
+    List<Models.NewsCategory> objlist = new BLL.NewsManager().GetAllCategory();
+    int categoryId = Convert.ToInt32(Request.QueryString["categoryId"]);
+    SelectList list = new SelectList(objlist, "CategoryId", "CategoryName", Request.QueryString["categoryId"] != null ? objlist[categoryId - 1].CategoryId : objlist[0].CategoryId);
+}
+<script src="~/ThirdFile/ckeditor/ckeditor.js"></script>
+
+@using (Html.BeginForm("DoNews", "HotelNews", FormMethod.Post))
+{
+    <div class="txtContentdiv">
+        @*隐藏ID，控制器根据ID判断是修改还是新增操作*@
+        @Html.Hidden("NewsId",Model.NewsId)
+        <div class="txtItemdiv">
+            新闻标题：@Html.TextBox("NewsTitle", Model.NewsTitle, new { @class = "txt" })
+            &nbsp;&nbsp;
+            新闻分类：
+            @Html.DropDownList("CategoryId", list)
+        </div>
+        <div class="txtItemdiv">
+            新闻内容：
+        </div>
+        <div class="txtItemdiv">
+            @Html.TextArea("NewsContents",Model.NewsContents)
+            <script type="text/javascript">
+                //这句话表示将普通文本域替换成富文本框
+                CKEDITOR.replace("NewsContents")
+            </script>
+        </div>
+        <div class="txtItemdiv">
+            <button class="btncss" id="btnPublish" type="submit">立即修改</button>
+        </div>
+
+    </div>
+}
+

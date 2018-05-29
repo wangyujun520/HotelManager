@@ -1,0 +1,54 @@
+﻿@model Models.SysAdmins
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>管理员登录</title>
+    <link href="~/CSS/AdminCss.css" rel="stylesheet" />
+</head>
+<body>
+    @*第一个参数是动作方法，第二个参数是控制器，用Post方式提交到控制器，赋值属性class样式引用*@
+    @using (Html.BeginForm("LoginUser", "SysAdmin", FormMethod.Post, new { @class = "adminlogin__form " }))
+    {
+        <div id="container">
+            @*网页logo图片开始*@
+            <div id="top"></div>
+            @*网页logo图片结束*@
+            @*登录表单开始*@
+            <div id="content">
+                <div id="loginimg">
+                    <img src="~/CSS/Images/loginimg.jpg" />
+                </div>
+                <div id="logindiv">
+                    <div id="ltitle">
+                        管理员登录
+                    </div>
+                    <div class="litem">
+                        登录账号：
+                        @*第一个参数是name class=txt*@
+                        @Html.TextBox("LoginId", "", new { @class = "txt" })
+                        @Html.ValidationMessage("LoginId")@*数据验证 在控制器通过验证name为LoginId的*@
+                    </div>
+                    <div class="litem">
+                        登录密码：
+                        @Html.Password("LoginPwd", "", new { @class = "txt" })
+                        @Html.ValidationMessage("LoginPwd")
+                    </div>
+                    <div class="litem">
+                        <button class="btncss" id="btnlogin" type="submit">马上登录</button>
+                        <a href="~/CompanyInfo/Index" class="btncss">返回首页</a>
+                    </div>
+                </div>
+            </div>
+            @*登录表单结束*@
+            @*版权部分开始*@
+            <div id="footer">
+                <div id="bq">
+                    版权所有 Copyright(C)2010-2020 好运来酒店
+                </div>
+            </div>
+            @*版权部分结束*@
+        </div>
+    }
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\BLL.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\BLL.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\DAL.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\Models.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\Common.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\DAL.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\Models.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\Common.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\obj\Release\BLL.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\obj\Release\BLL.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\BLL.dll.config
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\MvcPager.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\DAL.dll.config
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\Models.dll.config
+C:\Users\帅气的军哥\Desktop\HotelManager\BLL\bin\Release\Common.dll.config

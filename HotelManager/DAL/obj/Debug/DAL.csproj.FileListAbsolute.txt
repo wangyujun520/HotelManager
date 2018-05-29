@@ -1,0 +1,44 @@
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\DAL.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\DAL.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\Common.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\Models.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\Common.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\Models.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\obj\Debug\DAL.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\obj\Debug\DAL.pdb
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\MvcPager.dll
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\DAL.dll.config
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\Common.dll.config
+C:\Users\帅气的军哥\Desktop\HotelManager\DAL\bin\Debug\Models.dll.config
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\DAL.dll.config
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\DAL.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\DAL.pdb
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\Common.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\Models.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\MvcPager.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\Common.pdb
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\Common.dll.config
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\Models.pdb
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\bin\Debug\Models.dll.config
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.dll
+D:\王玉军个人资料\我的代码\我的项目\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.pdb
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\DAL.dll.config
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\DAL.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\DAL.pdb
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\Common.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\Models.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\MvcPager.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\Common.pdb
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\Common.dll.config
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\Models.pdb
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\bin\Debug\Models.dll.config
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.dll
+D:\王玉军个人资料\我的代码\我的项目\ASP.NET MVC\酒店管理系统\HotelManager\DAL\obj\Debug\DAL.pdb
